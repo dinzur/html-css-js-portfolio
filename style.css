@@ -38,7 +38,7 @@
 }
 
 h3 {
-  color: var(--secondary-color)
+  color: var(--secondary-color);
 }
 
 body {
@@ -51,7 +51,7 @@ html {
 }
 
 p {
-  color: var(--secondary-color-2)
+  color: var(--secondary-color-2);
 }
 
 /* TRANSITION */
@@ -96,7 +96,7 @@ a {
 a:hover {
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: var(--secondary-color)
+  text-decoration-color: var(--secondary-color);
 }
 
 nav a:hover {
